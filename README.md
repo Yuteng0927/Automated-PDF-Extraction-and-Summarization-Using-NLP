@@ -1,1 +1,1 @@
-# Automated-PDF-Extraction-and-Summarization-Using-NLP
+# Automated-PDF-Extraction-and-Summarization-Using-Natural-Language-Processing
