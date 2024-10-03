@@ -6,9 +6,13 @@
 ## Key Features:
 * PDF Text Extraction: Uses libraries like pdfplumber and textract to extract text from PDF documents.
 * Invoice Data Retrieval: Extracts invoice-related data such as amounts, dates, and vendors.
+![image](https://github.com/Yuteng0927/Automated-PDF-Extraction-and-Summarization-Using-NLP/blob/main/Invoice%20info.png)
 * Text Summarization: Provides concise summaries of document content.
+![image](https://github.com/Yuteng0927/Automated-PDF-Extraction-and-Summarization-Using-NLP/blob/main/Full%20summary.png)
 * Word Frequency Analysis: Generates word clouds and statistics on the most frequently occurring terms.
+![image](https://github.com/Yuteng0927/Automated-PDF-Extraction-and-Summarization-Using-NLP/blob/main/Word%20frequency.png)
 * Data Visualization: Produces visual representations of text analytics, such as word clouds and frequency distributions.
+![image](https://github.com/Yuteng0927/Automated-PDF-Extraction-and-Summarization-Using-NLP/blob/main/Word%20cloud.png)
   
 ## The following libraries are essential for running this project:
 
